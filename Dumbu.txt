@@ -1,1 +1,2 @@
 Welcome to Bit Bash. 
+Exit for the Bit Bash
